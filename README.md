@@ -12,6 +12,8 @@ About
 
 SNARE is a web application honeypot sensor attracting all sort of maliciousness from the Internet.
 
+NOTE THAT THIS CODE IS NOT MAINTAINED. (Port the tests to pytest if you want to pick up the work)
+
 Documentation
 --------------
 
@@ -26,7 +28,7 @@ Basic Concepts
 Getting started
 ---------------
 
-- You need Python3.6 to run SNARE
+- You need Python3.6+ to run SNARE
 - This was tested with a recent Ubuntu based Linux.
 
 #### Steps to setup
