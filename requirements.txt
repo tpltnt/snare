@@ -1,4 +1,4 @@
-aiohttp==3.13.3
+aiohttp==3.14.0
 aiohttp_jinja2==1.5.0
 beautifulsoup4==4.6.3
 cssutils==1.0.2
